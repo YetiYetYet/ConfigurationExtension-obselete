@@ -1,3 +1,6 @@
+Edit:
+This repo is obselete since dotnet 7 add an option to do the same objective.
+
 # ✨ ConfigurationExtension ✨
 
 This extension add some little methods that trow a ConfigurationMissingException when 
